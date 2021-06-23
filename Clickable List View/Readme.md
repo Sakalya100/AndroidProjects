@@ -1,2 +1,2 @@
 ## Demonstration of the app
-![DEMO][]
+![DEMO](Clickable%20List%20View.mp4)
